@@ -1,0 +1,3 @@
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/lab1_yiren_wu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/lab1_yiren_wu/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/lab1_yiren_wu/cmake-build-debug/CMakeFiles/lab1.dir
