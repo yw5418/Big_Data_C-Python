@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/HW3_yiren_wu/MapReduce.cpp
+iostream
+-
+thread
+-
+string
+-
+map
+-
+vector
+-
+sstream
+-
+fstream
+-
+iostream
+-
+
