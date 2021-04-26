@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -std=c++11 -lcurl -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Term_Project.dir/main.cpp.o CMakeFiles/Term_Project.dir/jsoncpp.cpp.o  -o Term_Project  -lsqlite3 -lcurl 

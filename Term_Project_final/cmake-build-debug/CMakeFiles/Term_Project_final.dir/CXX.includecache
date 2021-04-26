@@ -1,0 +1,214 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/Database.h
+sqlite3.h
+-
+string
+-
+Stock.h
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/Stock.h
+stdio.h
+-
+
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/MarketData.h
+string
+-
+Stock.h
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/Stock.h
+
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/Stock.h
+string
+-
+iostream
+-
+vector
+-
+stdio.h
+-
+vector
+-
+fstream
+-
+
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/json/json.h
+stddef.h
+-
+stdint.h
+-
+string
+-
+cpptl/config.h
+-
+version.h
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/json/version.h
+allocator.h
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/json/allocator.h
+config.h
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/json/config.h
+forwards.h
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/json/forwards.h
+forwards.h
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/json/forwards.h
+exception
+-
+string
+-
+vector
+-
+map
+-
+cpptl/smallmap.h
+-
+cpptl/forwards.h
+-
+features.h
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/json/features.h
+value.h
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/json/value.h
+deque
+-
+iosfwd
+-
+istream
+-
+stack
+-
+string
+-
+value.h
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/json/value.h
+ostream
+-
+string
+-
+vector
+-
+sstream
+-
+stdlib.h
+-
+config.h
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/json/config.h
+
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/jsoncpp.cpp
+json/json.h
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/json/json.h
+json/config.h
+-
+clocale
+-
+json_tool.h
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/json_tool.h
+json/assertions.h
+-
+json/reader.h
+-
+json/value.h
+-
+cassert
+-
+cstring
+-
+istream
+-
+limits
+-
+memory
+-
+set
+-
+sstream
+-
+utility
+-
+cstdio
+-
+stdio.h
+-
+json/assertions.h
+-
+json/value.h
+-
+json/writer.h
+-
+cassert
+-
+cstring
+-
+math.h
+-
+sstream
+-
+utility
+-
+cpptl/conststring.h
+-
+algorithm
+-
+cstddef
+-
+json_valueiterator.inl
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/json_valueiterator.inl
+json_tool.h
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/json_tool.h
+json/writer.h
+-
+cassert
+-
+cstring
+-
+iomanip
+-
+memory
+-
+set
+-
+sstream
+-
+utility
+-
+cmath
+-
+cstdio
+-
+math.h
+-
+stdio.h
+-
+float.h
+-
+float.h
+-
+ieeefp.h
+-
+
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/main.cpp
+string
+-
+iostream
+-
+vector
+-
+stdio.h
+-
+regex
+-
+json/json.h
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/json/json.h
+curl/curl.h
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/curl/curl.h
+sqlite3.h
+-
+Stock.h
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/Stock.h
+Database.h
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/Database.h
+MarketData.h
+/Users/yirenwu/Desktop/nyu_class/Spring 2021/Big data/Term_Project_final/MarketData.h
+
